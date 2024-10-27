@@ -1,0 +1,11 @@
+pipex
+*.o
+.vscode
+libft.a
+a.out
+in
+out
+pipex.pdf
+no_access
+bonus
+pense-bete.txt
